@@ -1,0 +1,3 @@
+apiVersion: storage.openshift.io/v1alpha1
+kind: EnterpriseRecycler
+projectName: enterprise-recycler
